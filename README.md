@@ -73,7 +73,7 @@
 
 First we clone the project using ```git clone``` and install all the packages and dependencies for our backend and frontend
 ```
-$git clone https://github.com/Chirag77302/EV_WEBS.git
+$git clone (https://github.com/amanraj464667/EV.git)
 cd backend
 npm install
 cd..
